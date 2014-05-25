@@ -10,5 +10,5 @@
 
 ####レベル４の見出し
 
-![kotetsu](kotetsu.png)
+![kotetsu](kotetsu.png)![kotetsu](kotetsu.png)
 
