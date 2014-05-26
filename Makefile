@@ -1,2 +1,2 @@
-main.docx: main.md
+main.docx: main.md kotetsu.png
 	pandoc -o $@ $<
